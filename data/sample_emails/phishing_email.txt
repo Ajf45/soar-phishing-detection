@@ -1,0 +1,11 @@
+Subject: Urgent: Your account is compromised
+
+Dear user,
+
+Click here immediately to reset your password:
+http://malicious-login.com/reset
+
+Your account will be locked if you do not act 
+
+Regards,
+Security Team

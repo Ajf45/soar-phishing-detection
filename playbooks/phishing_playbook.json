@@ -1,0 +1,19 @@
+{
+    "rules": [
+        {
+            "condition": "score >= 3",
+            "severity": "High",
+            "action": "Escalate + Quarantine"
+        },
+        {
+            "condition": "score == 2",
+            "severity": "Medium",
+            "action": "Flag as Suspicious"
+        },
+        {
+            "condition": "score < 2",
+            "severity": "Low",
+            "action": "Mark Safe"
+        }
+    ]
+}

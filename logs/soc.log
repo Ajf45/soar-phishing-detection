@@ -1,0 +1,16 @@
+2026-04-21 08:55:48,134 | INFO | Starting bulk email scan
+2026-04-21 08:55:48,134 | INFO | Starting email analysis
+2026-04-21 08:55:48,913 | ERROR | VirusTotal API request failed
+2026-04-21 08:55:48,917 | INFO | Starting email analysis
+2026-04-21 08:55:48,917 | INFO | File: phishing_email.txt | Score: 4 | Severity: High
+2026-04-21 08:55:48,917 | INFO | File: benign_email.txt | Score: 0 | Severity: Low
+2026-04-21 08:55:48,918 | INFO | Report generated for first alert
+2026-04-21 08:55:48,918 | INFO | Bulk Scan completed
+2026-04-21 08:56:32,070 | INFO | Starting bulk email scan
+2026-04-21 08:56:32,070 | INFO | Starting email analysis
+2026-04-21 08:56:32,652 | ERROR | VirusTotal API request failed
+2026-04-21 08:56:32,655 | INFO | Starting email analysis
+2026-04-21 08:56:32,655 | INFO | File: phishing_email.txt | Score: 4 | Severity: High
+2026-04-21 08:56:32,655 | INFO | File: benign_email.txt | Score: 0 | Severity: Low
+2026-04-21 08:56:32,656 | INFO | Report generated for first alert
+2026-04-21 08:56:32,656 | INFO | Bulk Scan completed

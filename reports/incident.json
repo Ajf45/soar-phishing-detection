@@ -1,0 +1,12 @@
+{
+    "file": "phishing_email.txt",
+    "score": 4,
+    "findings": [
+        "Keyword detected: urgent",
+        "Keyword detected: compromised",
+        "Keyword detected: password",
+        "Keyword detected: click"
+    ],
+    "severity": "High",
+    "action": "Escalate + Quarantine"
+}
